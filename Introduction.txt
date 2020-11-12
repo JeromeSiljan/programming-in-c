@@ -1,0 +1,1 @@
+I will be going over the book Programming in C in order to gain a deeper understanding of so that I can do better in CSE 1310
